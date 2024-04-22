@@ -12,4 +12,4 @@ I combined and cleaned Tessa's Coffee sales data to include all the customer, pr
 
 ## Scenario
 
-Tessa's Coffee is a small online company that has been selling coffee beans to individuals since 2019. They sell four different types of coffees: arabica, robusta, excelsa, and liberica.
+Tessa's Coffee is a small online company that sells coffee beans to individuals across the United States, United Kingdom, and Ireland. They sell arabica, robusta, excelsa, and liberica coffee beans with a roast type of light, medium, or dark. Customers can buy packages of different sizes ranging from 0.2 kg to 2.5 kg. 
