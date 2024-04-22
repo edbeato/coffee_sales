@@ -9,3 +9,7 @@ I combined and cleaned Tessa's Coffee sales data to include all the customer, pr
 [Dashboard: Tessa's Coffee Sales](https://github.com/edbeato/tessas_coffee_sales/blob/829372fc740886c620f642fe6389b69dbd0bb2e1/Sales%20Dashboard.xlsx)
 
 [Raw Data: Tessa's Coffee Sales](https://github.com/edbeato/tessas_coffee_sales/blob/19b894fc9a04b08e9de3c76cdb73fda7918a7351/Raw%20Data.xlsx)
+
+## Scenario
+
+Tessa's Coffee is a small online company that has been selling coffee beans to individuals since 2019. They sell four different types of coffees: arabica, robusta, excelsa, and liberica.
