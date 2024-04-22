@@ -41,7 +41,7 @@ Once I had all of the key data from the sheets in one place, I needed to make su
 
 1.) I created a sales column by multiplying the quantity of the order by the unit price. 
 
-2.) The coffee type was initially populated with abbreviations. Having the full name of the coffee type would be more clear so I created a new column called "coffee type name" using the **IF** function.
+2.) The coffee type was initially populated with abbreviations. Having the full name of the coffee type would be more clear so I created a new column called *coffee type name* using the **IF** function.
 
 3.) Since the company does international business, I wanted to make sure that the all of the units were clear.
 - Tessa's company sells packages in kilograms so I added that to the size column.
@@ -51,4 +51,14 @@ Once I had all of the key data from the sheets in one place, I needed to make su
 
 ## Analyzing the Data
 
+There were three categories of the data that I wanted to highlight:
 
+1.) Total sales over time
+
+2.) Sales broken down by country
+
+3.) Customers who've spent the most money
+
+These three categories give us a good pciture of the sales for the company, but I also created filters for order date, roast type, size, and loyalty card so that we could see how each of these factors affects the sales. 
+
+## Conclusions
