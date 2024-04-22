@@ -22,7 +22,7 @@ Could I combine scenario, about the company, and guiding questions all under sce
 
 ## Combining the Data
 
-The [raw data](https://github.com/edbeato/tessas_coffee_sales/blob/19b894fc9a04b08e9de3c76cdb73fda7918a7351/Raw%20Data.xlsx) began with three separate sheets: orders, customers, and products. In order to best prepare the sales data for analysis, I decided it was best to bring all the relevant information from the customers and produts sheets into the orders sheet. This meant creating columns in the order sheet:
+The [raw data](https://github.com/edbeato/tessas_coffee_sales/blob/19b894fc9a04b08e9de3c76cdb73fda7918a7351/Raw%20Data.xlsx) began with three separate sheets: orders, customers, and products. To prepare the sales data for analysis, I decided to bring all the relevant information from the customers and produts sheets into the orders sheet. This meant creating the following columns in the order sheet:
 
 - customer name
 - email
@@ -33,15 +33,15 @@ The [raw data](https://github.com/edbeato/tessas_coffee_sales/blob/19b894fc9a04b
 - unit price
 - loyalty card
 
-I was able to do this using **XLOOKUP**.
+I was able to do this using the **XLOOKUP, INDEX and MATCH** functions.
 
 ## Cleaning the Data
 
-Once I had all of the key data from the sheets in one place I needed to make sure that I created the columns needed to analyze the sales data and have it formatted so that it was easily understandable for anyone looking through the data. 
+Once I had all of the key data from the sheets in one place, I needed to make sure that I created the columns needed to analyze the sales data. I also formatted it so that it was easily understood by anyone looking through the data. 
 
-1.) The sales column needed to be created so I calculated it by multiplying the quantity of the order by the unit price. 
+1.) I created a sales column by multiplying the quantity of the order by the unit price. 
 
-2.) The coffee type and size columns were initially populated with abbreviations. I believed that having the full name for the would be more clear so I created new columns using the **IF** function.
+2.) The coffee type was initially populated with abbreviations. Having the full name of the coffee type would be more clear so I created a new column called "coffee type name" using the **IF** function.
 
 3.) Since the company does international business, I wanted to make sure that the all of the units were clear.
 - Tessa's company sells packages in kilograms so I added that to the size column.
@@ -50,3 +50,5 @@ Once I had all of the key data from the sheets in one place I needed to make sur
 4.) With the company being international, I wanted to make sure that the dates were clearly understood by all parties. To ensure this I changed the month from a numerical value to an abbreviation. 
 
 ## Analyzing the Data
+
+
