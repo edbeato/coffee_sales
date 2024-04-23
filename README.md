@@ -51,7 +51,7 @@ Once I had all of the key data from the sheets in one place, I needed to make su
 
 ## Analyzing the Data
 
-There were three categories of the data that I wanted to highlight:
+There were three categories of the data that I wanted to highlight: (I did this by creating pivot tables to and compaing different variables)
 
 1.) Total sales over time
 
