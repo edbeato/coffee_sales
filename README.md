@@ -12,13 +12,7 @@ I combined and cleaned Tessa's Coffee sales data to include all the customer, pr
 
 ## Scenario
 
-## About the Company
-
 Tessa's Coffee is a small online company that sells coffee beans to individuals across the United States, United Kingdom, and Ireland. They sell arabica, robusta, excelsa, and liberica coffee beans with a roast type of light, medium, or dark. Customers can buy packages of different sizes ranging from 0.2 kg to 2.5 kg. 
-
-## Guiding Questions 
-
-Could I combine scenario, about the company, and guiding questions all under scenario.
 
 ## Combining the Data
 
@@ -49,7 +43,7 @@ Once I had all of the key data from the sheets in one place, I needed to make su
 
 4.) With the company being international, I wanted to make sure that the dates were clearly understood by all parties. To ensure this I changed the month from a numerical value to an abbreviation. 
 
-## Analyzing the Data
+## Creating the Dashboard
 
 There were three categories of the data that I wanted to highlight: (I did this by creating pivot tables to and compaing different variables)
 
@@ -60,5 +54,3 @@ There were three categories of the data that I wanted to highlight: (I did this 
 3.) Customers who've spent the most money
 
 These three categories give us a good pciture of the sales for the company, but I also created filters for order date, roast type, size, and loyalty card so that we could see how each of these factors affects the sales. 
-
-## Conclusions
