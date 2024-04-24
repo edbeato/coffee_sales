@@ -4,7 +4,7 @@
 
 ## Summary
 
-I combined and cleaned Tessa's Coffee sales data to include all the customer, product, and order information. I then analyzed it by using pivot tables to discover trends and patterns in the sales. I finalized the project by creating an interactive dashboard that clearly dispalys the data.
+I combined and cleaned Tessa's Coffee sales data to include all the customer, product, and order information. I then analyzed it by using pivot tables to discover trends and patterns in the sales. I finalized the project by creating an interactive dashboard that clearly displays the data.
 
 [Dashboard: Tessa's Coffee Sales](https://github.com/edbeato/tessas_coffee_sales/blob/829372fc740886c620f642fe6389b69dbd0bb2e1/Sales%20Dashboard.xlsx)
 
