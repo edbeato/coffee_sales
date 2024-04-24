@@ -47,22 +47,22 @@ Once I had all of the key data from the sheets in one place, I needed to make su
 
 ## Creating the Dashboard
 
-There were three categories of the data that I wanted to highlight:
+Now that the data has been combined and cleaned, it is ready to be presented in a dashboard. There were three categories of the data that I wanted to highlight: the total sales over time, sales broken down by country, and top spending customers. All of them were created using pivot tables.
 
 **1.) Total sales over time**
 
-I selected order data into the rows and grouped them by years and months. I put coffee type names into columns and sales as my values. Now that all of the data was in the pivot chart I inserted my line graph.
+To create this visual I selected the *order date* as the rows and grouped them by years and months. I made *coffee type names* my columns and *sales* my values. I decided to use a line graph to visualize the data because it allows you to clearly see the changes in sales over time of each coffee type in comparison to the others. 
 
-After this I created an order date timeline so that you could easily filter the data based on whatever months you wanted to look at. This is quickly done by inserting a timeline under the *Pivot Chart Analyze* tab. 
+After this I created an order date timeline so that you could filter the data based on whatever months you wanted to look at.
 
-I also added slicers so that you could filter the data by size, roast type name, and loyalty card. This was done by inserting slicers under the *Pivot Chart Analyze* tab.
+I also added slicers so that you could filter the data by size, roast type name, and loyalty card. 
 
 **2.) Sales broken down by country**
 
-I created a bar chart using the countries as my rows and sales as my values.
+Here I selected the countries as my rows and sales as my values. Since we were comparing amounts of sales for the different countries rather than trends, so I decided to use a bar chart.
 
 **3.) Customers who've spent the most money**
 
-I created another bar chart using the customer name as my rows and sales as my values. Tessa's Coffee has had many different customers over the years, so rather than displaying all of them, I decided to only display the top 5.
+I created another bar chart using the customer name as my rows and sales as my values. Tessa's Coffee has had many different customers over the years, so rather than displaying all of them, I decided to only display the top five.
 
 These three charts, along with the filters added, give us a great overview of the sales for Tessa's Coffee from 2019 - 2022. 
